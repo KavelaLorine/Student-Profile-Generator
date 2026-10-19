@@ -12,6 +12,17 @@ This project was created as part of my journey learning Python through practical
 * Stores information using variables.
 * Demonstrates basic Python data types.
 * Formats terminal output using print statements and f-strings.
+## Features
+
+* Collects student information through keyboard input.
+* Displays a personalized academic profile.
+* Stores information using variables.
+* Demonstrates Python strings and integers.
+* Uses `input()` to collect user responses.
+* Uses `int()` for numeric type conversion.
+* Formats output using f-strings.
+* Displays programming interests and career goals.
+
 
 ## Technologies Used
 
