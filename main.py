@@ -1,9 +1,9 @@
-name= "Alex"
-course= "Computer science"
-year= 2
-uni= "MKK"
-programming_language= "Python"
-career_goal= "Software Developer"
+name= input("Enter your name")
+course= input("Enter your course")
+year= int(input("Enter your year"))
+uni= input("Enter your uni")
+programming_language=input("Enter the language you are learning")
+career_goal= input("Enter your career goal")
 
 print("="*40)
 print("Student Profile".center(40))
